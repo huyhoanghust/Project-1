@@ -1,0 +1,15 @@
+
+
+*History/
+
+*.PrjPcbStructure
+
+<<<<<<< HEAD
+*.log
+
+*.zip
+=======
+*log
+
+*.SchDocPreview
+>>>>>>> 11b03066a74aaae7e53c8b57fc9d632d70698ea9

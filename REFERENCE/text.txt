@@ -1,0 +1,31 @@
+UART
+interupt
+reference design
+sim800 hardware design
+quectel l70
+
+Bổ sung và sửa:
+-thêm mạch nạp STlink --> OKE
+-thêm nút ấn song song với PWRKEY và RST ->>> oke
+-mạch bảo vệ pin -->OKE
+-thay RS232 thành CH340C ra USB -->oke
+-thêm Status của Sim để check khi hoạt động ->>> OKE
+
+
+-tụ bypass	-->oke
+-1 cổng USB	-->oke
+-RESET		-->>oke
+-trở,led,tụ 0805-->>oke
+- bỏ pad OUT	-->>oke
+-led 2 màu 3 chân-->>oke
+-nút nhấn	-->>oke
+-đổi led 	->>oke
+-ADC phân áp	-->>oke
+
+thêm 1 nguồn cho sim -->oke
+thêm UART cho CH3 -->oke
+header 1.27 ---> oke
+SIM_RST
+SWCLK
+VBAT
+https://www.google.com/maps/@21.0068431,105.8427139,19.56z?hl=vi-VN

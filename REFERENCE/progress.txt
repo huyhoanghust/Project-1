@@ -1,0 +1,9 @@
+***Đã hoàn thành
+- Lấy được vị trí tọa độ GPS gửi SMS URL về điện thoại người dùng 
+- Low Power Mode - MCU sleep - SIM800 sleep - GPS wake 
+->dòng sleep tiêu thụ 22.70mA thời gian sử dụng 55h
+->dòng wakeup tiêu thụ 60.57mA thời gian sử dụng 21h
+- SMS báo điện áp pin
+***Đang làm 
+- Web tracking GPS (đang tìm web)
+AT+CSCLK=0

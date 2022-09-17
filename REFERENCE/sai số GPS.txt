@@ -1,0 +1,240 @@
+20.99251
+105.80268
+
+
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991453,105.802078
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991342,105.802108
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991342,105.802108
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991453,105.802131
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991418,105.802139
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991432,105.802131
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991432,105.802131
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991436,105.802124
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.991436,105.802124
+Battery level: 105.%
+Serial port COM10 closed
+Serial port COM10 opened
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992687,105.802726
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992687,105.802726
+Battery level: 106.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992530,105.802688
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992528,105.802688
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992528,105.802688
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992530,105.802681
+Battery level: 106.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992530,105.802688
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992530,105.802688
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.992544,105.802681
+Battery level: 106.%
+
+
+
+21.00633
+105.76383
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006238,105.763816
+Battery level: 107.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006238,105.763816
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006240,105.763816
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006240,105.763816
+Battery level: 106.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006240,105.763816
+Battery level: 107.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006267,105.763816
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006280,105.763824
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006294,105.763824
+Battery level: 106.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.006294,105.763824
+Battery level: 106.%
+
+
+21.00903
+105.75066
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 107.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 107.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 107.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 106.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 106.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.009046,105.750656
+Battery level: 106.%
+
+
+21.01002
+105.74356
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.010040,105.743568
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.010040,105.743568
+Battery level: 107.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.010040,105.743568
+Battery level: 106.%
+Doi mot luc
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.010040,105.743568
+Battery level: 106.%
+
+21.01158
+105.72162
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.011602,105.721618
+Battery level: 107.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.011602,105.721618
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.011602,105.721618
+Battery level: 107.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.011602,105.721618
+Battery level: 107.%
+
+21.01126
+105.71462
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.011264,105.714614
+Battery level: 105.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=21.011264,105.714614
+Battery level: 106.%
+
+
+
+
+
+RTK ngách 86/1 P. Thanh Lân, Thanh Trì, Hoàng Mai, Hà Nội, Việt Nam
+20.9893044
+105.8881524
+20.9892979
+105.8881325
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989313,105.888214
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989315,105.888214
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989318,105.888214
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989318,105.888214
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989347,105.888237
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989347,105.888237
+Battery level: 105.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989349,105.888237
+Battery level: 105.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989351,105.888237
+Battery level: 104.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989353,105.888237
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989355,105.888237
+Battery level: 104.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989357,105.888237
+Battery level: 106.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989357,105.888237
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989358,105.888237
+Battery level: 105.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989360,105.888229
+Battery level: 106.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989362,105.888229
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989360,105.888221
+Battery level: 105.%
+Doi mot luc
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989360,105.888221
+Battery level: 105.%
+Bat dau gui tin nhan
+https://www.google.com/maps/search/?api=1&query=20.989355,105.888237
+Battery level: 105.%
+Serial port COM10 closed
